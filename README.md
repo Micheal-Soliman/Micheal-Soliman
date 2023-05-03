@@ -1,4 +1,4 @@
-<h3 style="margin-left:-20px;" align="center"><img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="90" loop>I'm Micheal Soliman 🌟</h3>
+<h3 style="margin-left:-20px;" align="center"><img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="90" loop>🌟 I'm Micheal Soliman 🌟</h3>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=2500&center=true&vCenter=true&multiline=true&width=435&height=120&lines=Senior+Student%F0%9F%8E%93;React+Developer%F0%9F%9A%80;Node+Developer%F0%9F%91%BE" alt="Typing SVG" /></a>
